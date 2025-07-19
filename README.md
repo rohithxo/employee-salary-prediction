@@ -1,1 +1,1 @@
-# employee-salary-prediction
+# salary_predector_app
