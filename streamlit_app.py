@@ -42,7 +42,7 @@ st.markdown("""
 
 st.markdown("<div class='main'>", unsafe_allow_html=True)
 
-st.title("💼 Employee Salary Estimator")
+st.title("💼 Employee Salary Prediction")
 st.write("Use the form below to estimate an employee's expected monthly salary.")
 st.markdown("---")
 
