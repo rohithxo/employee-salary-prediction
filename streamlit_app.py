@@ -110,51 +110,39 @@ if st.button("Estimate Salary"):
     st.pyplot(fig)
 
 
+# Footer / Developer Credits
 st.markdown("""
-<style>
-.footer {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    font-size: 14px;
-    color: #aaaaaa;
-    margin-top: 50px;
-    padding: 20px 0;
-    border-top: 1px solid #333333;
-    font-family: Arial, sans-serif;
-}
-.footer a {
-    color: #4caf50;
-    text-decoration: none;
-    font-weight: bold;
-}
-.footer img {
-    width: 20px;
-    vertical-align: middle;
-    margin: 0 8px 0 5px;
-}
-</style>
+    <style>
+    .footer {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 14px;
+        color: #aaaaaa;
+        margin-top: 50px;
+        padding: 20px 0;
+        border-top: 1px solid #333333;
+        font-family: Arial, sans-serif;
+    }
+    .footer a {
+        color: #4caf50;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .footer img {
+        width: 20px;
+        vertical-align: middle;
+        margin-right: 5px;
+    }
+    </style>
 
-<div class="footer">
-    Developed & Owned by <strong>Rohith Chandra</strong><br><br>
-
-    <a href="https://instagram.com/rohith_chandra" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
-        @rohith_chandra
-    </a>
-
-    <a href="https://www.linkedin.com/in/rohith_chandra" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
-        LinkedIn
-    </a>
-
-    <a href="https://github.com/rohith-chandra" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
-        GitHub
-    </a>
-
-    <br><br>
-    © 2025 All Rights Reserved
-</div>
+    <div class="footer">
+        Developed & Owned by <strong>Rohith Chandra</strong><br><br>
+        <a href="https://instagram.com/rohith_chandra" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+            @rohith_chandra
+        </a><br><br>
+        © 2025 All Rights Reserved
+    </div>
 """, unsafe_allow_html=True)
