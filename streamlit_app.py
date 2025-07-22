@@ -109,7 +109,7 @@ if st.button("Estimate Salary"):
     ax.set_ylim(0, 100000)
     st.pyplot(fig)
 
-st.markdown("</div>", unsafe_allow_html=True)
+
 st.markdown("""
 <style>
 .footer {
