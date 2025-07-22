@@ -110,3 +110,58 @@ if st.button("Estimate Salary"):
     st.pyplot(fig)
 
 st.markdown("</div>", unsafe_allow_html=True)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Owner End Credits</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .credits-container {
+            position: relative;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .credits {
+            font-size: 1.2em;
+            text-align: center;
+            animation: scroll-up 20s linear infinite;
+        }
+
+        @keyframes scroll-up {
+            0% {
+                transform: translateY(100%);
+            }
+            100% {
+                transform: translateY(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="credits-container">
+    <div class="credits">
+        <p>Website Owner: Your Name</p>
+        <p>Developed By: Your Name / Team</p>
+        <p>Design: Your Name</p>
+        <p>&copy; 2025 All Rights Reserved</p>
+        <p>Thank you for visiting!</p>
+    </div>
+</div>
+
+</body>
+</html>
+
