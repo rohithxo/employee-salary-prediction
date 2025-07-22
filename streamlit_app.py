@@ -151,7 +151,7 @@ st.markdown("""
         <a href="https://github.com/rohith-chandra" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
             GitHub
-            <br><br>
+            </a><br><br>
         © 2025 All Rights Reserved
     </div>
 """, unsafe_allow_html=True)
