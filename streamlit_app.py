@@ -139,9 +139,9 @@ st.markdown("""
 
     <div class="footer">
         Developed & Owned by <strong>Rohith Chandra</strong><br><br>
-        <a href="https://instagram.com/rohith_chandra" target="_blank">
+        <a href="https://instagram.com/therohithh" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
-            @rohith_chandra
+            @therohithh
         </a><br><br>
         © 2025 All Rights Reserved
     </div>
