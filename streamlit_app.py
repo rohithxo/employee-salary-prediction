@@ -143,11 +143,11 @@ st.markdown("""
             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
             @therohithh
         </a><br><br>
-        <a href="https://www.linkedin.com/in/rohith_chandra" target="_blank">
+        <a href="https://www.linkedin.com/in/rohith-chandra-7b718424a" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
             LinkedIn
         </a><br><br>
-        <a href="https://github.com/rohith-chandra" target="_blank">
+        <a href="https://github.com/rohithxo" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
             GitHub
             </a><br><br>
